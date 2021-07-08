@@ -14,8 +14,8 @@
     "nyc": "^15.1.0"
   },
   "scripts": {
-    "start": "node src/index.js",
-    "test": "nyc mocha --reporter spec test/**/*.js"
+    "start": "node src/index.js"
+ 
   },
   "name": "avfinalliviasilva-te",
   "description": "",
